@@ -4,7 +4,7 @@
   "description": "My Awesome Addon",
   "main": "index.js",
   "scripts": {
-    "install": "node-gyp rebuild"
+    "start": "node-gyp rebuild"
   },
   "license": "MIT",
   "gypfile": true,
