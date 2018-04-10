@@ -2,7 +2,13 @@
 
 A node addon demo from [nodeschool.io](http://nodeschool.io)
 
-> code from this workshop [going native](https://github.com/workshopper/goingnative)
+> code from this workshop: [going native](https://github.com/workshopper/goingnative)
+
+> node addon helloword: [offcial guide](https://nodejs.org/api/addons.html#addons_hello_world)
+
+> related article: [medium](https://medium.com/@marcinbaraniecki/extending-node-js-with-native-c-modules-63294a91ce4)
+
+> node addon site: [nodeaddons.com](https://nodeaddons.com/)
 
 # More
 
